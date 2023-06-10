@@ -3,6 +3,6 @@ terraform {
     bucket = "young-minds-app-2023"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "june-dynamodb"
+    dynamodb_table = "table-2023"
   }
 }
